@@ -6,3 +6,5 @@ Life in an eternal loop
 printf('Hello World!' );
 ## How to Install
 - Step 1: Download the zip file or use git clone
+Commit 1
+Commit 2
