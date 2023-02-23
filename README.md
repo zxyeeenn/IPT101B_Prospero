@@ -11,3 +11,5 @@ Commit 2
 
 new commit1
 new commit2
+
+branch commit1
