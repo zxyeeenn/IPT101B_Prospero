@@ -10,10 +10,10 @@ printf('Hello World!' );
 - Commit 1
 - Commit 2
 
-##New Commits
+## New Commits
 - new commit1
 - new commit2
 
-##Branches
+## Branches
 - branch commit1
 - branch commit2
