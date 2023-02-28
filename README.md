@@ -6,11 +6,14 @@ Life in an eternal loop
 printf('Hello World!' );
 ## How to Install
 - Step 1: Download the zip file or use git clone
-Commit 1
-Commit 2
+## Commits
+- Commit 1
+- Commit 2
 
-new commit1
-new commit2
+##New Commits
+- new commit1
+- new commit2
 
-branch commit1
-branch commit2
+##Branches
+- branch commit1
+- branch commit2
